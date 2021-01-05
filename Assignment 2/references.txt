@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=7yZ5xxdkTb8
+https://coin-or.github.io/pulp/
+https://numpy.org/doc/
+https://numpy.org/doc/stable/reference/generated/numpy.linalg.solve.html
+https://coin-or.github.io/pulp/guides/how_to_configure_solvers.html
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html
+https://docs.python.org/3/library/pickle.html
+https://docs.python.org/3/library/argparse.html

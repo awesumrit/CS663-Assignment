@@ -1,0 +1,5 @@
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html
+https://numpy.org/doc/
+https://matplotlib.org/contents
+https://tor-lattimore.com/downloads/book/book.pdf
+https://papers.nips.cc/paper/5108-prior-free-and-prior-dependent-regret-bounds-for-thompson-sampling.pdf

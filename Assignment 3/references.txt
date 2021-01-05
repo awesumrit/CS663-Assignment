@@ -1,0 +1,4 @@
+Reinforcement Learning: An Introduction, Sutton/Barto
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html
+https://numpy.org/doc/
+https://matplotlib.org/contents
